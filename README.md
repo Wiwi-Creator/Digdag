@@ -38,7 +38,7 @@ On MAC
 
 ``$ digdag run mydag.dig``
 
-   [01.Pandas基礎語法統整](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Pandas_Basic.ipynb)
+   [01.設計](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Pandas_Basic.ipynb)
    
    [02.Pnadas基礎檔案操作](https://github.com/Wiwi-Creator/Data_Cleaning/blob/main/Read_Csv.ipynb)
    
